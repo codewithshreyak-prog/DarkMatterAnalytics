@@ -248,5 +248,4 @@ Screenshots can be found in the screenshots folder.
 
 Shreya Karamchedu
 
-Master's in Computer Science
-California State University, San Bernardino
+
