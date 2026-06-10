@@ -202,6 +202,26 @@ Screenshots can be found in the screenshots folder.
 
 ---
 
+## 📸 Project Screenshots
+
+### Customer Count by Segment
+
+![Customer Count](screenshots/customer_count_by_segment.png)
+
+### Average Monetary Value by Segment
+
+![Monetary Value](screenshots/avg_monetary_by_segment.png)
+
+### Average Recency by Segment
+
+![Recency](screenshots/avg_recency_by_segment.png)
+
+### Monthly Revenue Trend
+
+![Revenue Trend](screenshots/monthly_revenue_trend.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 * Python
