@@ -244,6 +244,23 @@ Screenshots can be found in the screenshots folder.
 
 ---
 
+## 📊 Metabase Executive Dashboard
+
+The project includes an interactive Business Intelligence dashboard built with Metabase and PostgreSQL.
+
+The dashboard provides:
+
+- Monthly Revenue Trends
+- Top Revenue Generating Products
+- Top Revenue Generating Customers
+- Revenue by Country
+
+### Dashboard Preview
+
+![Metabase Dashboard](screenshots/metabase_dashboard.png)
+
+---
+
 ## 👨‍💻 Author
 
 Shreya Karamchedu
